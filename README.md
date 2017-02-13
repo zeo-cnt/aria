@@ -1,0 +1,14 @@
+ -NPCmd:
+ -SecureAuth:
+ -SimpleTag:
+ -SimpleWarp:
+ -SmartBlock:
+ -IcShop:
+ -KillExp:
+ - 211.115.84.78: "ZEO" 
+ -LevelManager:
+ - 211.115.84.78: "ZEO"
+ -SpecialAbility:
+ - 211.115.84.78: "ZEO" 
+ -StatManager:
+ - 211.115.84.78: "ZEO" 
